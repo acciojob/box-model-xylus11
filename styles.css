@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+
+.id{
+	width:80%;
+	height:200px;
+	padding:10px;
+	border:5px solid black;
+	background-color:gray;
+	border-radius:30px;
+	margin:50px;
+	
+	
+	
+}
+#colors{
+	 margin: 30px;
+    display: flex;
+    text-align: center;
+	
+}
+.green{
+	 background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	margin:10px;
+	
+}
+	
+
+.yellow{
+	    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+	margin:10px;
+	
+}
+	.red{
+background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+		margin:10px;
+
+	
+}
